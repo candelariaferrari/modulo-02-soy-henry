@@ -1,0 +1,7 @@
+{
+    "ciudad":"Buenos aires",
+    "pais":"Argentina",
+    "temperatura": 18,
+    "humedad": 75,
+    "condicion":"Nublado"
+}

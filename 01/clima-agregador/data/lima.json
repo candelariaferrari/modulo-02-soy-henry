@@ -1,0 +1,7 @@
+{
+    "ciudad":"Lima",
+    "pais":"Peru",
+    "temperatura": 20,
+    "humedad": 80,
+    "condicion":"Lluvia ligera"
+}

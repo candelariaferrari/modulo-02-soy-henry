@@ -1,0 +1,13 @@
+{
+  "name": "clima-agregador",
+  "version": "1.0.0",
+  "description": "ejercicio clase 01",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"node --watch index.js"
+  },
+  "keywords": [],
+  "author": "cande ferrari",
+  "license": "ISC"
+}

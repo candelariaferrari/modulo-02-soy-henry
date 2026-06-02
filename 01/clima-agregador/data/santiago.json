@@ -1,0 +1,7 @@
+{
+    "ciudad":"Santiago",
+    "pais":"Chile",
+    "temperatura": 22,
+    "humedad": 60,
+    "condicion":"Soleado"
+}
