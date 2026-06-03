@@ -1,0 +1,33 @@
+============================================================
+  REPORTE CLIMÁTICO LOGÍSTICO
+  Fecha    : 2026-06-03
+  Generado : 3/6/2026, 16:51:12
+============================================================
+
+📍 BUENOS AIRES — Argentina
+----------------------------------------
+  Temperatura  : 38°C
+  Humedad      : 75%
+  Condición    : Nublado
+  Estado       : 🟡 PRECAUCIÓN
+  Recomendación: Calor extremo. Verificar mercadería sensible a temperatura
+
+📍 LIMA — Peru
+----------------------------------------
+  Temperatura  : 20°C
+  Humedad      : 80%
+  Condición    : Lluvia ligera
+  Estado       : 🔴 RIESGO
+  Recomendación: Operaciones demoradas. Evaluar rutas alternativas
+
+📍 SANTIAGO — Chile
+----------------------------------------
+  Temperatura  : 22°C
+  Humedad      : 60%
+  Condición    : Soleado
+  Estado       : 🟢 APTO
+  Recomendación: Condiciones normales. Operaciones sin restricciones.
+
+============================================================
+  🌡️  Ciudad más cálida: Buenos aires con 38°C
+============================================================
