@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "titulo": "Estudiar Express.js",
+    "descripcion": "Completar el módulo de rutas y middlewares",
+    "completada": false,
+    "prioridad": "alta",
+    "creadaEn": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "titulo": "Practicar con Thunder Client",
+    "descripcion": "Probar todos los endpoints de la API",
+    "completada": true,
+    "prioridad": "media",
+    "creadaEn": "2024-01-15T11:00:00Z"
+  },
+  {
+    "id": 3,
+    "titulo": "Repasar Status Codes HTTP",
+    "descripcion": "Memorizar los códigos más comunes: 200, 201, 400, 404, 500",
+    "completada": false,
+    "prioridad": "baja",
+    "creadaEn": "2024-01-15T12:00:00Z"
+  },
+  {
+    "id": 4,
+    "titulo": "Estudiar otra cosa modificada",
+    "descripcion": "Estudiar para aplicar",
+    "completada": false,
+    "prioridad": "Alta",
+    "creadaEn": "3/6/2026, 22:44:51"
+  }
+]
