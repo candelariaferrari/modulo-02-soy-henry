@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "The Gray Man",
+    "year": 2022,
+    "genre": "Action"
+  },
+  {
+    "id": 2,
+    "title": "Don't Look Up",
+    "year": 2021,
+    "genre": "Comedy"
+  },
+  {
+    "id": 3,
+    "title": "Extraction",
+    "year": 2020,
+    "genre": "Action"
+  },
+  {
+    "id": 4,
+    "title": "The Adam Project",
+    "year": 2022,
+    "genre": "Sci-Fi"
+  },
+  {
+    "id": 5,
+    "title": "Bird Box",
+    "year": 2018,
+    "genre": "Thriller"
+  }
+]
