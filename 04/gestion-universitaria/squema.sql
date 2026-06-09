@@ -412,12 +412,16 @@ VALUES
 -- =============================================
 
 --* ¿Cuántos estudiantes tenemos?
+--* este sirve si el id es de tipo serial
 SELECT max(id) as total_estudiantes FROM estudiantes;
-
+--* este sirve si el id es distinto es
 SELECT COUNT(*) as total_estudiantes FROM estudiantes;
 
 --* ¿Cuántos profesores tenemos?
+SELECT max(id) as total_profesores FROM profesores;
+
 --* ¿Cuántos cursos hay en total?
+SELECT COUNT(*) as total_cursos FROM cursos;
 
 --* ¿Cuántas inscripciones hay por estado?
 SELECT estado, COUNT(*) AS cantidad
